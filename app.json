@@ -1,6 +1,6 @@
 {
-  "name": "Account Gen Bot",
-  "description": "A Account Gen Bot In Telethon.",
+  "name": "Voot Account Generator Bot",
+  "description": "a voot  Account Gen Bot made by @Hustle_bots .",
   "logo": "https://cdn.dribbble.com/users/6823/screenshots/2211533/ag-logo.png?compress=1&resize=800x600",
   "keywords": [
     "telegram",
@@ -9,9 +9,7 @@
     "telegram-bot",
     "productivity"
   ],
-  "repository": "https://github.com/DevsExpo/AccountCheckerBot",
-  "website": "starkgang.ml",
-  "success_url": "t.me/FridayOT",
+  "success_url": "t.me/Hustle_Bots",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
@@ -19,19 +17,19 @@
     },
     "BOT_TOKEN": {
       "description": "Your Bot Token.",
-      "value": ""
+      "value": "1791525646:AAGAY1XbQjsajUZXobnJDxUPbO4cLTKgPDU"
     },
     "API_ID": {
       "description": "Get this value from my.telegram.org! Please do not steal",
-      "value": ""
+      "value": "2031518"
     },
     "OWNER_ID": {
       "description": "Bot Owner ID",
-      "value": ""
+      "value": "1675302133"
     },
     "API_HASH": {
       "description": "Get this value from my.telegram.org! Please do not steal",
-      "value": ""
+      "value": "b2c81aace7412612bd7195438af94dbf"
     }
   },
   "buildpacks": [
